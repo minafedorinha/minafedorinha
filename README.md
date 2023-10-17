@@ -1,3 +1,4 @@
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://raw.githubusercontent.com/minafedorinha/imagens/main/perfil-GitHub/computer-illustrationMINA.png">
 ## 💜 Hello, my name is <strong>Mina</strong>!
 
 >  My study of software development starts at the beginning of 2023, although I have enjoyed the area much earlier. My focus is Front-End, UI and UX Design.

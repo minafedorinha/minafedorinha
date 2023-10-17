@@ -21,9 +21,3 @@ Email: mina.dev@outlook.com
 ![Git](https://img.shields.io/badge/Git-091418?style=for-the-badge&logo=git&logoColor=F24E29)
 ![GitHub](https://img.shields.io/badge/git_hub-091418?style=for-the-badge&logo=github&logoColor=FFFFFA)
 
-
-
-
-## ⭐ Informações sobre minha conta GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=

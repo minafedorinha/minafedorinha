@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/minafedorinha/imagens/main/perfil-GitHub/computer-illustrationMINA.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/HenriqueReimao/Imagens/Master/Pixel-Arte/menina-pc-gato.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## 💜 Hello, my name is <strong>Mina</strong>!
 
